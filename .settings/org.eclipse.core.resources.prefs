@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/Server/ChatServer.java=UTF-8
+encoding//src/Server/Help.java=UTF-8
+encoding//src/Server/Node.java=UTF-8
+encoding//src/Server/PortConf.java=UTF-8
+encoding//src/Server/ServerListen.java=UTF-8
+encoding//src/Server/ServerReceive.java=UTF-8
+encoding//src/Server/UserLinkList.java=UTF-8
+encoding//src/client/ChatClient.java=UTF-8
+encoding//src/client/ClientReceive.java=UTF-8
+encoding//src/client/ConnectConf.java=UTF-8
+encoding//src/client/Help.java=UTF-8
+encoding//src/client/UserConf.java=UTF-8
